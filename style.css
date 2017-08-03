@@ -1,3 +1,7 @@
+@font-face {
+    font-family: penultimate;
+    src: url(fonts/penultimate.ttf);
+}
 @-webkit-keyframes boxEntrance{
   from{
     border-radius: 0%;
@@ -109,7 +113,7 @@ html{
 	background: url("images/greybg.jpg");
 	background-repeat: no-repeat;
 	background-size: 100%;
-	font-family:'Roboto';
+	font-family:'penultimate';
 }
 #loginWrapper{
 	height: 80%; 
